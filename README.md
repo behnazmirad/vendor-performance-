@@ -1,2 +1,2 @@
 # vendor-performance-
-end-to-end sql+ PYTHON + POWER BI project 
+END TO END sql+ PYTHON + POWER BI project 
